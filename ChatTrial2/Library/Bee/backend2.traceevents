@@ -1,0 +1,429 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1698819069877054, "dur":19333, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698819069896391, "dur":184, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698819069896682, "dur":361, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698819069897150, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":0, "ts":1698819069897780, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698819069898292, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698819069898931, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698819069897074, "dur":5242, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698819069902317, "dur":216883, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698819070119202, "dur":107, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698819070119310, "dur":51, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698819070119539, "dur":2351, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1698819069897458, "dur":4868, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698819069902329, "dur":4762, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698819069907871, "dur":324, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1698819069908199, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1698819069908280, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1698819069908595, "dur":133, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069908729, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.AppleMacosStub.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069908806, "dur":204, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.Stores.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069909011, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069909082, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.AppleStub.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069909142, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Analytics.DataPrivacy.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069909209, "dur":151, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\PhotonVoice.API.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069909459, "dur":100, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\PhotonVoice.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069909599, "dur":57, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\PhotonVoice.PUN.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069909657, "dur":345, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069910003, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\PhotonChat.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069910087, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069910148, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069910201, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069910310, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.SecurityCore.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069910365, "dur":119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\PhotonUnityNetworking.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069910485, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.Codeless.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069910550, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\PhotonUnityNetworking.Utilities.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069910654, "dur":393, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069911048, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069911108, "dur":99, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069911208, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.AppleCore.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069911263, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069911336, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.WinRTCore.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069911390, "dur":57, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.SecurityStub.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069911448, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Advertisements.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069911525, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069911637, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069911694, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069911765, "dur":526, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069912292, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069912361, "dur":298, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069912660, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069912740, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Purchasing.Common.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069912801, "dur":164, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\PhotonRealtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069912966, "dur":144, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069913111, "dur":135, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Analytics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069913247, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069913320, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698819069913467, "dur":81, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player283fd957-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1698819069908198, "dur":5449, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1698819069913962, "dur":86, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698819069914243, "dur":201020, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1698819070118037, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1698819070118036, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1698819070118128, "dur":983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1698819069897502, "dur":4831, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069902340, "dur":870, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069903211, "dur":3883, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069907115, "dur":135, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1698819069907101, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1698819069907252, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069908117, "dur":6068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1698819069914224, "dur":335, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1698819069914656, "dur":1991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1698819069916752, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069916818, "dur":1412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2.exe" }}
+,{ "pid":12345, "tid":2, "ts":1698819069918419, "dur":9533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069928228, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069928287, "dur":2022, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069930380, "dur":3428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069933878, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069933987, "dur":3608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069937635, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Sem7\\Photon_Chat_Trial\\ChatTrial2\\Assets\\Photon\\PhotonLibs\\netstandard2.0\\Photon3Unity3D.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069937634, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Photon3Unity3D.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069937764, "dur":2846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Photon3Unity3D.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069940643, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069940741, "dur":1954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/PhotonRealtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069942730, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069942811, "dur":3647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069946590, "dur":2576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.Purchasing.Codeless.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069949256, "dur":3330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/PhotonChat.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069952601, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069952693, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069952749, "dur":3035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.Analytics.DataPrivacy.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069955860, "dur":55, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069955919, "dur":1744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069957728, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069957852, "dur":2630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069960528, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069960593, "dur":142, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069960740, "dur":4478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069965331, "dur":2591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069967959, "dur":175, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069968180, "dur":2180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069970405, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069970550, "dur":2230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069972884, "dur":2105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069975030, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069975205, "dur":2138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069977459, "dur":1323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069978859, "dur":1103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069979979, "dur":59, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698819069980081, "dur":1973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069982273, "dur":2821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Plugins/x86_64/AudioIn.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698819069985127, "dur":1847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1698819069987030, "dur":34177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1698819070021226, "dur":97921, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069897615, "dur":4756, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069902375, "dur":309, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069902684, "dur":555, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069903239, "dur":3879, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069907119, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1698819069907239, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069908964, "dur":2179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1698819069911180, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1698819069911364, "dur":2830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1698819069914236, "dur":405, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1698819069914234, "dur":408, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1698819069914716, "dur":2067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1698819069916827, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1698819069917245, "dur":8258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1698819069925555, "dur":976, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069926573, "dur":6684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069933296, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069933408, "dur":2455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069935935, "dur":310, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069936290, "dur":2004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069938407, "dur":2668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069941092, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069941177, "dur":2529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069943793, "dur":2415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.Advertisements.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069946296, "dur":2739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069949052, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069949148, "dur":2912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069952081, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069952182, "dur":2106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069954319, "dur":171, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069954532, "dur":2209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069956765, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069956858, "dur":2519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069959419, "dur":579, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069960057, "dur":3789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069963895, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069963988, "dur":2026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069966053, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069966130, "dur":2888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069969061, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069969150, "dur":1424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069970660, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069970761, "dur":2195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069972991, "dur":223, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069973237, "dur":2345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069975679, "dur":2582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069978399, "dur":3486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069981948, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698819069982253, "dur":2947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Plugins/x86_64/webrtc-audio.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698819069985280, "dur":2383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1698819069987706, "dur":19505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698819070007251, "dur":111933, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069897559, "dur":4787, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069902351, "dur":857, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069903208, "dur":3885, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069907107, "dur":181, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069907300, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069908064, "dur":2694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1698819069910764, "dur":296, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1698819069910762, "dur":300, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1698819069911239, "dur":3142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1698819069914565, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1698819069915160, "dur":1704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1698819069916905, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069917361, "dur":7581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069924991, "dur":803, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069925865, "dur":7196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069933172, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069933249, "dur":2601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069935965, "dur":2940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069938952, "dur":532, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069939512, "dur":1951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069941480, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069941579, "dur":2269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069943878, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069944016, "dur":1962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.Purchasing.WinRTCore.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069945996, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069946093, "dur":2186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069948305, "dur":156, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069948509, "dur":2075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.Purchasing.SecurityCore.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069950666, "dur":2046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069952733, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069952919, "dur":1609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.Purchasing.AppleStub.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069954553, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069954628, "dur":1922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069956603, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069956722, "dur":2050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069958857, "dur":215, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069959103, "dur":3742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069962898, "dur":377, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069963375, "dur":3995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069967432, "dur":297, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069967751, "dur":1936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069969752, "dur":251, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069970027, "dur":2079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069974369, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069972230, "dur":2208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069974493, "dur":195, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069974705, "dur":2769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069977539, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069977680, "dur":3520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069981610, "dur":3082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698819069984771, "dur":1455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698819070003975, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698819069986356, "dur":17711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698819070004331, "dur":16144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1698819070020498, "dur":98676, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069897600, "dur":4759, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069902363, "dur":718, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069903082, "dur":4013, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069907116, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1698819069907100, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1698819069908714, "dur":2400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1698819069911183, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1698819069911558, "dur":2438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1698819069914061, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1698819069914220, "dur":1868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1698819069916131, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069916129, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069916666, "dur":15582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069932315, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069932465, "dur":2100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069934680, "dur":2794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069937558, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069940341, "dur":92, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069937632, "dur":2812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069940480, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069940592, "dur":1646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069942254, "dur":186, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069942462, "dur":2456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069945017, "dur":1195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069946321, "dur":2533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/PhotonUnityNetworking.Utilities.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069948916, "dur":2319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069951255, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069951454, "dur":2193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069953669, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069953743, "dur":2256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.Purchasing.AppleMacosStub.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069956086, "dur":2181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069958411, "dur":2957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069961419, "dur":382, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069961828, "dur":2567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069964438, "dur":421, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069964909, "dur":2288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069967255, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069967332, "dur":2573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069969995, "dur":1758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069971799, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069971957, "dur":1728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069973738, "dur":234, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069974009, "dur":2208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069976261, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069976425, "dur":4633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069981115, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698819069981266, "dur":4365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698819069985715, "dur":14220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/resources.resource" }}
+,{ "pid":12345, "tid":5, "ts":1698819070000122, "dur":20345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1698819070020493, "dur":98703, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069897653, "dur":4729, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069902387, "dur":291, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069902679, "dur":744, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069903423, "dur":3675, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069907102, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1698819069907241, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069908728, "dur":2968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1698819069911744, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1698819069911916, "dur":2162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1698819069914118, "dur":286, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":6, "ts":1698819069914116, "dur":289, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1698819069914406, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069914642, "dur":2158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1698819069932893, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069917582, "dur":15416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069933075, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069933255, "dur":2252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069935551, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069935635, "dur":2296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069937974, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069938134, "dur":2715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069940885, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069940972, "dur":2073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Purchasing.Common.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069943079, "dur":368, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069943471, "dur":3368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069946856, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069946984, "dur":2509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/PhotonUnityNetworking.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069949512, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069949611, "dur":2970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069952601, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069952714, "dur":2208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/PhotonVoice.API.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069954942, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069955014, "dur":1743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069956922, "dur":1871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069958888, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069959096, "dur":4416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069963557, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069963679, "dur":2162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069965880, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069965966, "dur":2593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069968660, "dur":3426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069972192, "dur":2216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069974527, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069974678, "dur":2420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069977153, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698819069977239, "dur":4187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069982148, "dur":3832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Plugins/x86_64/opus_egpv.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698819069986016, "dur":67862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1698819070053963, "dur":65225, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069897714, "dur":4678, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069902398, "dur":637, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069903081, "dur":4016, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069907101, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1698819069907232, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069908439, "dur":3724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1698819069912205, "dur":89, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1698819069912204, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1698819069912356, "dur":1910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1698819069914309, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1698819069914708, "dur":2302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1698819069917051, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069917706, "dur":14575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069932329, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069932428, "dur":87, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069932521, "dur":1830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069934462, "dur":5536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069940043, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069940175, "dur":1709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.Services.Analytics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069941949, "dur":3786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069945812, "dur":2388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.Purchasing.AppleCore.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069948345, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069948506, "dur":2046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.Purchasing.WinRTStub.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069950650, "dur":2517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/PhotonVoice.PUN.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069953221, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069953322, "dur":2329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.Purchasing.Stores.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069955740, "dur":1665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069957491, "dur":2903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069960568, "dur":4851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069965485, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069965593, "dur":2311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069967950, "dur":183, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069968178, "dur":1999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069970222, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069970293, "dur":2143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069972543, "dur":2431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069975042, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069975208, "dur":2549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069977801, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069977930, "dur":3115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069981114, "dur":144, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698819069981276, "dur":1402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698819069982716, "dur":212, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\com.unity.services.core\\UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":7, "ts":1698819069982715, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":7, "ts":1698819069983196, "dur":2050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":7, "ts":1698819069985357, "dur":1989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1698819069987407, "dur":21859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1698819070009437, "dur":109738, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069897774, "dur":4629, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069902403, "dur":992, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069903395, "dur":3712, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069907122, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1698819069907112, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1698819069907235, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069908872, "dur":2545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1698819069911458, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1698819069911456, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1698819069911833, "dur":2175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1698819069914093, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1698819069914431, "dur":1511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1698819069915987, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069915985, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069916588, "dur":6314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069922971, "dur":1524, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069924545, "dur":5984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069930595, "dur":232, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069933618, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069930862, "dur":2854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069937934, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069933818, "dur":4180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069938047, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069938167, "dur":3076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/websocket-sharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069941355, "dur":2437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069943810, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069943903, "dur":1941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.Purchasing.SecurityStub.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069948610, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069945947, "dur":2757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.Purchasing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069948724, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069948861, "dur":1821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069950744, "dur":2411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/PhotonVoice.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069953205, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069953316, "dur":1715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069955069, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069955228, "dur":1885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069957161, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069957299, "dur":2201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069959585, "dur":408, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069960051, "dur":3386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069963482, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069963587, "dur":2231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069965906, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069966126, "dur":2771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069968974, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069969154, "dur":1829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069971052, "dur":246, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069971322, "dur":2283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069973650, "dur":334, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069974014, "dur":2520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069976579, "dur":178, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698819069976783, "dur":4652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069981552, "dur":1648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/ChatTrial2_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069983305, "dur":125, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069983303, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819069983486, "dur":101843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gammi/OneDrive/Desktop/Project Trials/VoiceChatTrial4/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698819070085361, "dur":33798, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698819070124853, "dur":1765, "ph":"X", "name": "ProfilerWriteOutput" }
+,
